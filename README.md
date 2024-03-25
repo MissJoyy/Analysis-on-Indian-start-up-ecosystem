@@ -168,6 +168,7 @@ To run the project, execute the following command:
 - GitHub: [GitHub Profile](https://github.com/MissJoyy)
 - LinkedIn: [LinkedIn Profile](linkedin.com/in/joy-apaloo-0b71791a7)
 - Email: [Email](apaloojoy@gmail.com)
+- Medium: [Medium]( https://medium.com/@apaloojoy/analysis-on-indian-startup-ecosystem-ce6e73ab5f3d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
